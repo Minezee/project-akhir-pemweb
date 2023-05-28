@@ -3,11 +3,11 @@
     <div class="h-full flex flex-col gap-1">
         <div class="flex flex-row gap-2 text-gray-400 items-center">
             <h3 class="text-lg font-semibold text-[#001E57]">
-                <?php echo $datas; ?>
+                Guest
             </h3>
             <span>.</span>
-            <p class="text-sm">4h ago</p>
+            <p class="text-sm"> <?php echo $waktu; ?> </p>
         </div>
-        <p class="text-base">Tempatnya bagus walau aku belum pernah datang</p>
+        <p class="text-base"> <?php echo $komentar; ?> </p>
     </div>
 </div>
