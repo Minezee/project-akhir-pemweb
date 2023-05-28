@@ -22,14 +22,23 @@
     <main class="flex flex-col items-center w-full px-10">
         <h2 class="text-[#001E57] mt-10 text-5xl font-semibold">About this Website</h2>
         <div class="mt-10 w-full flex flex-row gap-10">
-            <img src="../assets/background.png" alt="image" class="h-64 rounded-2xl">
-            <p class="text-lg">
-                Lorem ipsum dolor, sit amet consectetur adipisicing elit. Expedita corporis velit quas optio soluta, ad
-                autem! Cum reiciendis facilis ut, quos incidunt iure eligendi blanditiis. Fuga explicabo quo minus
-                reiciendis.
-                Lorem ipsum dolor sit, amet consectetur adipisicing elit. Fugiat consequuntur cum eveniet quia facere
-                numquam asperiores officiis nisi error veritatis quas corrupti commodi, placeat quidem, rem quam, ab
-                sequi maiores!
+            <img src="../assets/background.png" alt="image" class="h-80 rounded-2xl">
+            <p class="text-lg whitespace-pre-line"
+            >   Website kami menyediakan berbagai pilihan wisata menarik di kota Malang dan Batu yang dapat Anda
+                kunjungi kapanpun Anda inginkan. Dari pesona alam yang memukau hingga destinasi budaya yang kaya, kami
+                menyajikan beragam opsi yang menarik untuk perjalanan Anda. Anda dapat menjelajahi keindahan Paralayang,
+                menjajal keberanian di Jatim Park, atau menikmati serunya atraksi pada Museum Angkut.
+
+                Selain itu, kami juga mempersembahkan fitur komentar yang memungkinkan Anda untuk berinteraksi dengan
+                pengguna lainnya di halaman wisata. Jika Anda ingin mengomentari, berdiskusi, atau mengulas pengalaman
+                Anda di tempat-tempat wisata tersebut, fitur komentar kami siap memfasilitasi komunikasi antara
+                pengunjung. Anda dapat berbagi tips, memberikan rekomendasi, atau bertanya kepada komunitas kami yang
+                berpengalaman.
+
+                Jadi, mari selamat berwisata dan berpetualang di kota Malang dan Batu! Nikmati keindahan alamnya,
+                eksplorasi budayanya, dan temukan pengalaman tak terlupakan yang menanti Anda di setiap sudutnya.
+                Jadikan website kami sebagai panduan perjalanan Anda, dan jangan ragu untuk berbagi pengalaman Anda
+                dengan komunitas kami. Selamat menjelajahi dan menikmati pesona wisata yang menakjubkan!
             </p>
         </div>
         <h2 class="text-[#001E57] text-5xl font-semibold mt-10">Know Your Destination Yet?</h2>
