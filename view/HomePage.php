@@ -22,7 +22,7 @@
     <main class="flex flex-col items-center w-full px-10">
         <h2 class="text-[#001E57] mt-10 text-5xl font-semibold">About this Website</h2>
         <div class="mt-10 w-full flex flex-row gap-10">
-            <img src="../assets/background.png" alt="image" class="h-80 rounded-2xl">
+            <img src="../assets/background.png" alt="image" class="h-64 rounded-2xl">
             <p class="text-lg whitespace-pre-line"
             >   Website kami menyediakan berbagai pilihan wisata menarik di kota Malang dan Batu yang dapat Anda
                 kunjungi kapanpun Anda inginkan. Dari pesona alam yang memukau hingga destinasi budaya yang kaya, kami
